@@ -39,6 +39,3 @@ A classic Tetris game built with C++ and C, featuring a graphical user interface
     ./tetris
     ```
 
-## License
-
-This project is licensed under the MIT License.
